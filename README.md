@@ -12,8 +12,8 @@ I am an **Information Technology** student at **Universitas Brawijaya** with a p
 
 <div align="center">
   <p align="center">
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mivanf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mivanf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mivanf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mivanf&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </p>
 </div>
 
