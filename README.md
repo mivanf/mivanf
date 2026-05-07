@@ -52,4 +52,4 @@ I am an **Information Technology** student at **Universitas Brawijaya** with a p
 
 ### Let's Connect!
 - 💼 **LinkedIn:** [Michael Ivan's LinkedIn](https://www.linkedin.com/in/michaelivanf/)
-- 🎨 **Portfolio:** [Michael Ivan's Portofolio](https://drive.google.com/file/d/1ijDEXPAWkOGUKsrW9PeRp_IxjPwQUdsd/view?usp=drive_link)
+- 🎨 **Portfolio:** [Michael Ivan's Portofolio](https://digiport-ten.vercel.app/)
